@@ -1,1 +1,16 @@
-# .github
+## Project Summary
+Mental health is critical to overall well-being, yet it remains a pressing issue worldwide. In Kenya, young people aged 16-25 encounter significant challenges concerning their mental wellness while pursuing higher education. Depression, anxiety, and stress are exacerbated by limited access to affordable mental healthcare and societal stigma. This Project proposes a solution to this issue through a smartphone application designed to provide accessible and comprehensive mental health resources for Kenyan youth.
+
+Many high school and university Kenyan youths suffer from mental health conditions such as depression, trauma, stress, and anxiety. Social stigmas perpetuated by parents and guardians contribute to their isolation, hindering understanding and support.
+Moreover, seeking professional help is financially burdensome for many young individuals.
+
+To address the gap in accessibility and affordability of mental health services for Kenyan youth, we propose developing a smartphone application. The app will empower users through convenient access to comprehensive mental health resources. It will feature an initial diagnostic analysis to track and categorize their emotions, enabling users to communicate their feelings effectively over time. Additional resources, such as self-help videos and articles, will be free of cost through partnerships with relevant organizations. The app will also provide lists of nearby therapists, location trackers, and communities for users to connect.
+
+The primary target audience includes young people between 16-25 years enrolled in high schools and universities. The app will also extend support to older adults who may be isolated due to chronic health conditions, social support networks, and resources for overall well-being management.
+
+The application offers a unique value proposition by establishing partnerships with mental healthcare institutions, ensuring cost-effective services for users. A reward system with points and streaks will motivate users to maintain their mental wellness. We will prioritize Data Security to build user trust, employing anonymous personnel during sensitive interactions. Personal visual progress trackers within therapy sessions and effective journaling will enhance user experience.
+
+The application will adopt a freemium business model, offering some features free-of-charge while others require paid subscriptions. Partnerships with mental health institutions will enable affordable services, and we shall generate revenue from advertising space allocated to relevant organizations specializing in mental health treatments.
+
+Our application will address prevailing challenges related to young people’s mental well-being in Kenya. The application will improve the state of mental healthcare across the country and significantly impact users' lives. By offering affordability, ease of access, and comprehensive resources, the app empowers individuals and bridges the gap created by societal stigmas. This initiative can potentially foster better mental health practices among Kenyan youth and aid older adults battling chronic illnesses. The successful implementation of this project can pave new paths toward a mentally healthier society in Kenya.
+
